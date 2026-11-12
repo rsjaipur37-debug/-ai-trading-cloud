@@ -4,3 +4,5 @@ pyotp
 numpy
 pandas
 requests
+logzero
+websocket-client
